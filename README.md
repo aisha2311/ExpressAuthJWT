@@ -41,6 +41,11 @@ commands :
     
     npm run dev 
 
+port information :
+
+    in .env file
+    
+
 
 
 
